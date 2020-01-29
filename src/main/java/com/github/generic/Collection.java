@@ -1,4 +1,4 @@
-package cn.bx.generic;
+package com.github.generic;
 
 import java.util.*;
 

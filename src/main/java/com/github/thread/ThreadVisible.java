@@ -1,4 +1,4 @@
-package cn.bx.thread;
+package com.github.thread;
 
 public class ThreadVisible {
     public static void main(String[] args) throws InterruptedException {

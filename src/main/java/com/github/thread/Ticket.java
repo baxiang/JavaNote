@@ -1,4 +1,4 @@
-package cn.bx.thread;
+package com.github.thread;
 
 class TicketWindow implements Runnable {
     private int count = 100;

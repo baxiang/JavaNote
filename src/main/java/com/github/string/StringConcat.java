@@ -1,4 +1,4 @@
-package cn.bx.string;
+package com.github.string;
 
 public class StringConcat {
     public static void main(String[] args) {

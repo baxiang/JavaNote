@@ -1,4 +1,4 @@
-package cn.bx.thread;
+package com.github.thread;
 
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 
