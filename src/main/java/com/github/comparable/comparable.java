@@ -1,4 +1,4 @@
-package cn.bx.comparable;
+package com.github.comparable;
 
 import java.util.ArrayList;
 import java.util.Collections;
