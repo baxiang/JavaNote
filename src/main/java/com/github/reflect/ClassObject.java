@@ -1,7 +1,6 @@
-package cn.bx.reflect;
+package com.github.reflect;
 
 import java.lang.reflect.Field;
-import java.lang.reflect.Modifier;
 
 class Person{
     public int id;
